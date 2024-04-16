@@ -1,0 +1,42 @@
+.maintip{
+    background-color: aqua;
+    background-size: 100% 100%;
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.maintip h1{
+    text-align: center;
+    color: red;
+}
+.main{
+    text-align: center;
+    background-color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;  
+}
+.main button{
+    color: black;
+    background-color: rgb(26, 184, 241);
+    padding: 5px;
+}
+.output{
+    background-color:rgb(132, 213, 132);
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 100px;
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+}
+.output p{
+    color: white;
+}
